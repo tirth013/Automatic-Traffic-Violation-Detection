@@ -27,14 +27,14 @@ This project implements an automated **Traffic Signal Violation Detection System
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/aryanjadav037/traffic-signal-violation-detection.git
-   cd traffic-signal-violation-detection
+   git clone https://github.com/tirth013/Automatic-Traffic-Violation-Detection.git
+   cd Automatic-Traffic-Violation-Detection
    ```
 
 
 2. **Run the Flask app:**
    ```bash
-   python app.py
+   python main.py
    ```
 
 ## Contributions
